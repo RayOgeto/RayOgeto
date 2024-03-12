@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ogeto Ray</h1>
 <h3 align="center">I'm passionate about learning some new things tech related.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayogeto&label=Profile%20views&color=0e75b6&style=flat" alt="rayogeto" /> </p>
 
 - 🌱 I’m currently learning **Java, Python**
 
@@ -19,3 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact" alt="rayogeto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayogeto&show_icons=true&locale=en" alt="rayogeto" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayogeto&label=Profile%20views&color=0e75b6&style=flat" alt="rayogeto" /> </p>
+
