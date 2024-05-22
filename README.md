@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=coral&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Ogeto;A+Software+Developer+and+System+Analyst." alt="Typing SVG"/> 
 </div>
 
-<h1 align="center">Hi 👋, I'm Ogeto Ray</h1>
+<hr>
 <h3 align="center">I'm passionate about learning some new things tech related.</h3>
 
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **otego59@gmail.com**
 
 - ⚡ Fun fact **its weird that i somehow have a huge understanding of the DC/MARVEL movies**
+
+  <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,14 +33,23 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact" alt="rayogeto" /></p>
+<p align="center">
+    <a href="https://github.com/RayOgeto"><span>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayOgeto&theme=zenburn" width="100%" />
+    </span>
+    </a>
+</p>
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="rayogeto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayogeto&show_icons=true&locale=en" alt="rayogeto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayogeto&show_icons=true&locale=en&&theme=tokyonight" alt="rayogeto" /></p>
 
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayogeto" alt="rayogeto" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayogeto&label=Profile%20views&color=0e75b6&style=flat" alt="rayogeto" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayogeto&label=Profile%20views&color=0e75b6&style=flat&&theme=tokyonight" alt="rayogeto" /> </p>
+<hr>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayogeto&" alt="rayogeto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayogeto&&theme=tokyonight" alt="rayogeto" /></p>
