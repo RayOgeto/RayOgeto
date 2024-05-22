@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<h3 align="center">I'm passionate about learning some new things tech related.</h3>
+<h3 align="center">I'm a passionate developer with a keen interest of learning on how things work around. On the road to honing my skills to be a better developer</h3>
 
 
 
