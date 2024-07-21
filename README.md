@@ -17,12 +17,7 @@
 <hr/>
 <p align="center" width="100%" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="rayogeto" /></p>
 
-<picture>
 
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RayOgeto/RayOgeto/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-
-</picture>
 
 
 
