@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<h3 align="center">I'm a passionate developer with a keen interest of learning on how things work around.</h3>
+<h3 align="center">Navigating the world as it approaches, casual gamer.</h3>
 
   <hr>
 
