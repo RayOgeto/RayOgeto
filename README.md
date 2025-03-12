@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://github.com/RayOgeto"><span>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayOgeto&theme=zenburn" width="100%" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayOgeto&theme=gotham" width="100%" />
     </span>
     </a>
 </p>
