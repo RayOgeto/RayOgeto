@@ -15,7 +15,7 @@
     </a>
 </p>
 <hr/>
-<p align="center" width="100%" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="rayogeto" /></p>
+<!-- <p align="center" width="100%" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="rayogeto" /></p> -->
 
 
 
