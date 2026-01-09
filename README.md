@@ -7,13 +7,17 @@
 
   <hr>
 
-
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+<!-- <p align="center">
     <a href="https://github.com/RayOgeto"><span>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayOgeto&theme=gotham" width="100%" />
     </span>
     </a>
-</p>
+</p> -->
 <hr/>
 <!-- <p align="center" width="100%" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="rayogeto" /></p> -->
 
