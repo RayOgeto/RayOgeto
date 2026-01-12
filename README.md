@@ -1,3 +1,16 @@
+<!-- <script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
+<script>
+import { generatePacManGame } from 'pacman-contribution-graph';
+
+generatePacManGame({
+	username: 'RayOgeto',
+	platform: 'github', // or 'gitlab'
+	theme: 'github-dark', // or 'gitlab-dark'
+	speed: 2,
+	sound: true,
+	output: 'canvas' // or 'svg'
+});
+    </script> -->
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=coral&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Ogeto;And+I'm+a+Software+Developer" alt="Typing SVG"/> 
 </div>
