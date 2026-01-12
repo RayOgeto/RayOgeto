@@ -21,24 +21,25 @@ generatePacManGame({
   <hr>
 
 
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayOgeto/RayOgeto/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayOgeto/RayOgeto/output/pacman-contribution-graph.svg">
     <img alt="pacman" src="https://raw.githubusercontent.com/RayOgeto/RayOgeto/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 <!-- <p align="center">
     <a href="https://github.com/RayOgeto"><span>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayOgeto&theme=gotham" width="100%" />
     </span>
     </a>
 </p> -->
-<hr/>
+
 
 <!-- For canvas -->
 <!-- <iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=RayOgeto&platform=github" 
     width="800" height="600" frameborder="0"></iframe> -->
 <!-- For SVG -->
 <img src="https://pacman.abozanona.me?username=RayOgeto" />
+<hr/>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <!-- <p align="center" width="100%" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="rayogeto" /></p> -->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
