@@ -1,0 +1,21 @@
+
+<html>
+  <head>
+    <title>pac-man</title>
+  </head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
+<script>
+import { generatePacManGame } from 'pacman-contribution-graph';
+
+generatePacManGame({
+	username: 'RayOgeto',
+	platform: 'github', // or 'gitlab'
+	theme: 'github-dark', // or 'gitlab-dark'
+	speed: 2,
+	sound: true,
+	output: 'canvas' // or 'svg'
+});
+</script>
+</body>
+</html>
