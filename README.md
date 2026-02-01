@@ -39,16 +39,31 @@ generatePacManGame({
     width="800" height="600" frameborder="0"></iframe> -->
 <!-- For SVG -->
 <hr />
- <p align="center" width="100%" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayogeto&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="rayogeto" /></p>
+ 
+### Current Focus
+- Developing scalable web applications using modern frameworks
+- Implementing data-driven solutions for business intelligence
+- Enhancing security protocols and implementing best practices
+- Contributing to open-source projects and tech education
  <hr/>
 <img src="https://pacman.abozanona.me?username=RayOgeto" />
 <hr/>
 
+# 🌱 Current Learning Focus
 
+
+- Machine Learning and AI
+- Cloud Architecture (AWS, Azure)
+- Advanced Cybersecurity Tools
+- Blockchain Development
+  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RayOgeto&style=flat-square&color=blue" alt="Profile Views"/>
+</div> 
 
 
 
