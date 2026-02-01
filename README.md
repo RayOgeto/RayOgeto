@@ -12,7 +12,7 @@ generatePacManGame({
 });
     </script> -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=coral&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Ogeto;And+I'm+a+Software+Developer" alt="Typing SVG"/> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=coral&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Ogeto;I'm+a+Software+Developer" alt="Typing SVG"/> 
 </div>
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <hr>
