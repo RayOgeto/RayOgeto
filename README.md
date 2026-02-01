@@ -45,17 +45,15 @@ generatePacManGame({
 - Implementing data-driven solutions for business intelligence
 - Enhancing security protocols and implementing best practices
 - Contributing to open-source projects and tech education
- <hr/>
-<img src="https://pacman.abozanona.me?username=RayOgeto" />
-<hr/>
-
-# 🌱 Current Learning Focus
-
-
 - Machine Learning and AI
 - Cloud Architecture (AWS, Azure)
 - Advanced Cybersecurity Tools
 - Blockchain Development
+ <hr/>
+<img src="https://pacman.abozanona.me?username=RayOgeto" />
+<hr/>
+
+
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
