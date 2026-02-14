@@ -16,7 +16,7 @@ generatePacManGame({
 </div>
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <hr>
-<h3 align="center">Navigating the world as it approaches, casual gamer.</h3>
+<!-- <h3 align="center">Navigating the world as it approaches, casual gamer.</h3> -->
 
 
 
@@ -38,7 +38,7 @@ generatePacManGame({
 <!-- <iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=RayOgeto&platform=github" 
     width="800" height="600" frameborder="0"></iframe> -->
 <!-- For SVG -->
-<hr />
+<!-- <hr /> -->
  
 ### Current Focus
 - Developing scalable web applications using modern frameworks
