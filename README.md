@@ -40,7 +40,7 @@ generatePacManGame({
 <!-- For SVG -->
 <!-- <hr /> -->
  
-### Current Focus
+### My Current Focus
 - Developing scalable web applications using modern frameworks
 - Implementing data-driven solutions for business intelligence
 - Enhancing security protocols and implementing best practices
@@ -48,7 +48,7 @@ generatePacManGame({
 - Machine Learning and AI
 - Cloud Architecture (AWS, Azure)
 - Advanced Cybersecurity Tools
-- Blockchain Development
+
  <hr/>
 <img src="https://pacman.abozanona.me?username=RayOgeto" />
 <hr/>
